@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Olá, sou @Clodoaldosiqueira<br> Estou interessado em análise de dados<br> Atualmente estou aprendendo front-end, back-end<br> Procuro colaborar em qualquer coisa<br> Como entrar em contato pelo e-mail clodoaldosiqueira@gmail.com
+🙋‍♂️ Olá, sou @Clodoaldosiqueira<br> Estou interessado em análise de dados<br> Atualmente estou aprendendo front-end, back-end, mobile app developement<br> Procuro colaborar em qualquer coisa<br> Como entrar em contato pelo e-mail clodoaldosiqueira@gmail.com
 
 
 # 💻 Tech Stack:
